@@ -1,0 +1,14 @@
+---
+title: "Another Page"
+---
+
+## Time-varying regression
+
+Time-varying regression is simply a linear regression where time is the explanatory variable:
+
+$$log(catch) = \alpha + \beta t + \beta_2 t^2 + \dots + e_t$$
+The error term ( $e_t$ ) was treated as an independent Normal error ( $\sim N(0, \sigma)$ ) in Stergiou and Christou (1996).  If that is not a reasonable assumption, then it is simple to fit an autocorrelated error model or non-Gausian error model in R.
+
+---
+
+Stergiou and Christou (1996) fit time-varying regressions to the 1964-1987 data and show the results in Table 4.
