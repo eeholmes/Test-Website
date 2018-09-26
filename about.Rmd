@@ -3,3 +3,11 @@ title: "About This Website"
 ---
 
 More about this website.
+
+```{r}
+plot(1:10)
+```
+
+<img src="images/Greece.png" width="300px">
+
+![Greece](images/Greece.png)
