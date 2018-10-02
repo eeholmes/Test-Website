@@ -6,15 +6,17 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
+    - text: "About"
+      href: about.html
+    - text: "संपर्क"
+      href: contact.html
     - text: "More"
-      menu:
-        - text: "About"
-          href: about.html
-        - text: "Contact"
-          href: contact.html
+      href: more_info.html
+    - text: "Contact3"
+      href: contact.html
 output:
   html_document:
-    theme: cosmo
+    theme: readable
     highlight: textmate
     include:
       after_body: footer.html
