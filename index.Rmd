@@ -1,5 +1,5 @@
 ---
-title: "My Website"
+title: "Chlorophyll in Puget Sound"
 ---
 
-Hello, Website!
+![Chl in Puget Sound](https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdVHNchlamday.png?chla%5B(last)%5D%5B(0.0)%5D%5B(49.99875):(46.00125)%5D%5B(-125.99625):(-121.99875)%5D&.draw=surface&.vars=longitude%7Clatitude%7Cchla&.colorBar=%7C%7C%7C%7C%7C&.bgColor=0xffccccff)
